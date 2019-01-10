@@ -1,0 +1,26 @@
+{
+  "name": "react-simple-template",
+  "version": "1.0.0",
+  "description": "Simple react template =====================",
+  "main": "index.js",
+  "scripts": {
+   "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovu/react-simple-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovu/react-simple-template/issues"
+  },
+  "homepage": "https://github.com/ovu/react-simple-template#readme",
+  "devDependencies": {
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
